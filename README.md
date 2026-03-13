@@ -44,5 +44,5 @@ Technologies
 
 ## 📫 Connect with Me
 
-LinkedIn: www.linkedin.com/saipreetm
+LinkedIn: [www.linkedin.com/saipreetm](https://www.linkedin.com/in/alaghari-saipreetam/)
 Email: saipreetam.official@gmail.com
